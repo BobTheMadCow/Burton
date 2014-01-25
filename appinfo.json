@@ -1,0 +1,135 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "0d2d7f50-cbb7-4ce2-96de-696450fd6470",
+    "appKeys": {},
+    "longName": "Burton",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Burton",
+    "companyName": "BobTheMadCow",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png-trans",
+                "name": "NUM_NINE",
+                "file": "images/9.png"
+            },
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "BURTON_ICON",
+                "file": "images/Burton Icon.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "NUM_EIGHT",
+                "file": "images/8.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "NUM_SEVEN",
+                "file": "images/7.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "NUM_SIX",
+                "file": "images/6.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "NUM_FIVE",
+                "file": "images/5.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "NUM_FOUR",
+                "file": "images/4.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "NUM_THREE",
+                "file": "images/3.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "NUM_TWO",
+                "file": "images/2.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "NUM_ONE",
+                "file": "images/1.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "NUM_ZERO",
+                "file": "images/0.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "TEXT_TWELVE",
+                "file": "images/Twelve.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "TEXT_ELEVEN",
+                "file": "images/Eleven.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "TEXT_TEN",
+                "file": "images/Ten.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "TEXT_NINE",
+                "file": "images/Nine.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "TEXT_EIGHT",
+                "file": "images/Eight.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "TEXT_SEVEN",
+                "file": "images/Seven.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "TEXT_SIX",
+                "file": "images/Six.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "TEXT_FIVE",
+                "file": "images/Five.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "TEXT_FOUR",
+                "file": "images/Four.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "TEXT_THREE",
+                "file": "images/Three.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "TEXT_TWO",
+                "file": "images/Two.png"
+            },
+            {
+                "type": "png-trans",
+                "name": "TEXT_ONE",
+                "file": "images/One.png"
+            }
+        ]
+    }
+}
