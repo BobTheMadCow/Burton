@@ -1,9 +1,11 @@
 #define INVERT_COLORS_KEY 0
 #define ANIMATION_DURATION_KEY 1
 #define VIBE_KEY 2
+	
 #define DEFAULT_INVERT_COLORS_VALUE false
-#define DEFALUT_ANIMATION_DURATION_VALUE 3000 //3 seconds - short enough for the animation to complete before the light goes out.
+#define DEFALUT_ANIMATION_DURATION_VALUE 2000
 #define DEFAULT_VIBE_VALUE false
+	
 bool invert_colors;
 int animation_duration;
 bool vibe;
