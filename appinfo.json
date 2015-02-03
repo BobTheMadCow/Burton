@@ -1,135 +1,136 @@
 {
-    "versionLabel": "1.1",
-    "uuid": "0d2d7f50-cbb7-4ce2-96de-696450fd6470",
     "appKeys": {},
-    "longName": "Burton",
-    "versionCode": 1,
     "capabilities": [
-        ""
+        "configurable"
     ],
-    "shortName": "Burton",
     "companyName": "BobTheMadCow",
-    "watchapp": {
-        "watchface": true
-    },
+    "longName": "Burton",
+    "projectType": "native",
     "resources": {
         "media": [
             {
-                "type": "png-trans",
-                "name": "NUM_NINE",
-                "file": "images/9.png"
-            },
-            {
+                "file": "images/Burton Icon.png",
                 "menuIcon": true,
-                "type": "png",
                 "name": "BURTON_ICON",
-                "file": "images/Burton Icon.png"
+                "type": "png"
             },
             {
-                "type": "png-trans",
-                "name": "NUM_EIGHT",
-                "file": "images/8.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "NUM_SEVEN",
-                "file": "images/7.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "NUM_SIX",
-                "file": "images/6.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "NUM_FIVE",
-                "file": "images/5.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "NUM_FOUR",
-                "file": "images/4.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "NUM_THREE",
-                "file": "images/3.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "NUM_TWO",
-                "file": "images/2.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "NUM_ONE",
-                "file": "images/1.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "NUM_ZERO",
-                "file": "images/0.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "TEXT_TWELVE",
-                "file": "images/Twelve.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "TEXT_ELEVEN",
-                "file": "images/Eleven.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "TEXT_TEN",
-                "file": "images/Ten.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "TEXT_NINE",
-                "file": "images/Nine.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "TEXT_EIGHT",
-                "file": "images/Eight.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "TEXT_SEVEN",
-                "file": "images/Seven.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "TEXT_SIX",
-                "file": "images/Six.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "TEXT_FIVE",
-                "file": "images/Five.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "TEXT_FOUR",
-                "file": "images/Four.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "TEXT_THREE",
-                "file": "images/Three.png"
-            },
-            {
-                "type": "png-trans",
-                "name": "TEXT_TWO",
-                "file": "images/Two.png"
-            },
-            {
-                "type": "png-trans",
+                "file": "images/One.png",
                 "name": "TEXT_ONE",
-                "file": "images/One.png"
+                "type": "png-trans"
+            },
+            {
+                "file": "images/Two.png",
+                "name": "TEXT_TWO",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/Three.png",
+                "name": "TEXT_THREE",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/Four.png",
+                "name": "TEXT_FOUR",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/Five.png",
+                "name": "TEXT_FIVE",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/Six.png",
+                "name": "TEXT_SIX",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/Seven.png",
+                "name": "TEXT_SEVEN",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/Eight.png",
+                "name": "TEXT_EIGHT",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/Nine.png",
+                "name": "TEXT_NINE",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/Ten.png",
+                "name": "TEXT_TEN",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/Eleven.png",
+                "name": "TEXT_ELEVEN",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/Twelve.png",
+                "name": "TEXT_TWELVE",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/0.png",
+                "name": "NUM_ZERO",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/1.png",
+                "name": "NUM_ONE",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/2.png",
+                "name": "NUM_TWO",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/3.png",
+                "name": "NUM_THREE",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/4.png",
+                "name": "NUM_FOUR",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/5.png",
+                "name": "NUM_FIVE",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/6.png",
+                "name": "NUM_SIX",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/7.png",
+                "name": "NUM_SEVEN",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/8.png",
+                "name": "NUM_EIGHT",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/9.png",
+                "name": "NUM_NINE",
+                "type": "png-trans"
             }
         ]
+    },
+    "shortName": "Burton",
+    "uuid": "0d2d7f50-cbb7-4ce2-96de-696450fd6470",
+    "versionCode": 1,
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": true
     }
 }
