@@ -64,11 +64,12 @@ static void tuple_changed_callback(const uint32_t key, const Tuple* tuple_new, c
 	}
 }
 
-static void app_error_callback(DictionaryResult dict_error, AppMessageResult app_message_error, void* context) {
+static void app_error_callback(DictionaryResult dict_error, AppMessageResult app_message_error, void* context) 
+{
   APP_LOG(APP_LOG_LEVEL_DEBUG, "app error %d", app_message_error);
 }
 
-static void init_settings()
+static void init_communication()
 {
 		  //  app communication
 	Tuplet tuples[] = {
@@ -123,6 +124,7 @@ static void load_settings()
 		vibrate = DEFAULT_VIBRATE_VALUE;
 		APP_LOG(APP_LOG_LEVEL_DEBUG, "vibrate = %d", vibrate);	
 	}
+	init_communication();
 }
 
 static void save_settings()

@@ -339,7 +339,6 @@ void handle_init(void)
 	APP_LOG(APP_LOG_LEVEL_WARNING, "Heap free at start of initialisation: %u", heap_bytes_free());
 
 	load_settings();
-	init_settings();
 	init_frames();
 	
 	window = window_create();
